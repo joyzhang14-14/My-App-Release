@@ -12,7 +12,7 @@ Pick the file named `My-Orphies_<version>_aarch64.dmg` (Apple Silicon — M1 / M
 
 ## Install (first time only)
 
-My Orphies is signed but **not notarized by Apple** (no $99/year Developer Program subscription). macOS Gatekeeper will block the first launch with a "cannot be verified" warning. This is expected — follow the steps below to bypass it once. Future updates download silently in the background.
+My Orphies is signed but **not notarized by Apple**. macOS Gatekeeper will block the first launch with a "cannot be verified" warning. This is expected — follow the steps below to bypass it once. Future updates download silently in the background.
 
 ### Step 1 — Mount the DMG and copy the app
 
